@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v11.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -88,7 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MacTesting\MacTesting.csproj">
-      <Project>{E5426875-6CA8-4818-A18B-B7D6F26F1FCD}</Project>
+      <Project>{9FC894B8-E9C8-48B9-9956-DF9432DF0F1E}</Project>
       <Name>MacTesting</Name>
     </ProjectReference>
   </ItemGroup>
